@@ -1,8 +1,7 @@
-<img width="1048" height="581" alt="image" src="https://github.com/user-attachments/assets/fe4aef9b-afcf-493e-bb16-fe036e70d330" />
+<img width="1720" height="973" alt="image" src="https://github.com/user-attachments/assets/ab6cb956-9a41-40e3-b73c-f3025ebb1117" />
 
-## AWS | Local-Template
-A reference blueprint for end-to-end automation of infrastructure and AI application deployment using GitLab, Terraform, AWS, Kubernetes (kind), and an LLM-based RAG stack.
-Designed primarily for local development, rapid prototyping, and demo environments, this model ensures fast iteration, reproducibility, and a seamless developer experience. 🐳🤖
+## AWS | Marquez
+Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem's metadata. It maintains the provenance of how datasets are consumed and produced, provides global visibility into job runtime and frequency of dataset access, centralization of dataset lifecycle management, and much more.
 
 
 ⭐  Architecture
