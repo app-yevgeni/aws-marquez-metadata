@@ -1,0 +1,22 @@
+postgresql:
+  enabled: true
+
+marquez:
+  db:
+    host: marquez-postgresql
+    port: 5432
+    name: marquez
+    user: marquez
+
+web:
+  enabled: true
+
+ingress:
+  enabled: true
+  className: nginx
+
+  hosts:
+    - host: marquez.example.com
+      paths:
+        - path: /
+          pathType: Prefix
