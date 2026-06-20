@@ -6,11 +6,10 @@ Marquez is an open source metadata service for the collection, aggregation, and 
 
 ⭐  Architecture
 ```
-✔️ Source Control (GitLab)
-✔️ Infrastructure Orchestration Layer (Terraform Core)
-✔️ Cloud Execution Layer → (AWS EC2)
-✔️ Kubernetes Orchestration Layer (kind Cluster)
-✔️ AI/ML Runtime Layer (LLM + Vector DB Stack) 
+✔️ Metadata API
+✔️ Metadata Repository
+✔️ Web UI ( Lineage graph visualization \ Dataset exploration )
+✔️ OpenLineage Integrations
 ```
 
 🚀 
